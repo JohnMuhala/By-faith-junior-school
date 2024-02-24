@@ -1,0 +1,19 @@
+.bg-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+                       rgba(0, 0, 0, 0.5)), url('../img/bfj.jpg');
+                       background-size: cover;
+                       background-position: center;
+                       height: 100vh;
+}
+.logo{
+    height: 92px;
+    width: 92px;
+}
+
+.team {
+    img {
+        width: 300px;
+        height: 300px;
+        object-fit: cover;
+    }
+}
